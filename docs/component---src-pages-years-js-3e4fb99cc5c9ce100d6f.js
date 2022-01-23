@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdocunext=self.webpackChunkdocunext||[]).push([[53],{3941:function(e,n,t){t.r(n);var u=t(7378),c=t(9896);n.default=function(e){e.data;return u.createElement(c.Z,null)}}}]);
+//# sourceMappingURL=component---src-pages-years-js-3e4fb99cc5c9ce100d6f.js.map
